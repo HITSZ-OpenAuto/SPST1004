@@ -1,4 +1,4 @@
-# 课程代码 - 课程名
+# SPST1004 - 普通天文学
 
 <!--
 1. 通过 [Shields.io](https://shields.io/) 生成如下的徽章，标注课程的基本信息。
@@ -8,25 +8,36 @@
 5. 可以在 GitHub 页面的 About/Topics 中为课程添加话题名称。
 -->
 
-![考试课](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red)
 ![考查课](https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green)
-![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-4-moccasin)
+![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2-moccasin)
 ![跨专业选修课](https://img.shields.io/badge/%E8%B7%A8%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%E8%AF%BE-lightskyblue)
-![实验](https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-purple)
-![文理通识](https://img.shields.io/badge/%E6%96%87%E7%90%86%E9%80%9A%E8%AF%86-orange)
 
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
-![作业40%](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-40%25-wheat)
-![期末考试60%](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-60%25-wheat)
+![考勤20%](https://img.shields.io/badge/考勤-20%25-wheat)
+![作业30%](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-40%25-wheat)
+![期末考试50%](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-60%25-wheat)
 
 
 ## 授课教师
 
-- （教师名）
-  - 授课风格：
-  - 听课建议：
-  - ……
+- 邹蓬
+  - 邹老师的课其实挺有意思的，老师的思维发散，容易跳跃到别的地方。PPT 有些硬核，但是难懂的部分一般会跳过不讲，也不会考察。而重点部分会详细讲解。by [Gaster](https://github.com/WDGaster703)
+
+- 申远灯
+  - 
+## 关于课程
+
+2024 秋课程考勤共四次，邹老师看心情考勤，每次 15 个人，抽到没到且下课仍未补签的算缺勤，缺勤一次扣5分，3次扣20分且不再扣。
+作业为助教所布置，基本都是简单的计算题，2024 秋的作业也在资料下载中可以看到，每次 6 分，共 5 次，作业和期末考的计算题强相关，而且难度不高。
+课程为天文学的半科普半专业课程，上课会涉及很多很专业的名词和晦涩难懂的概念，也会有很多复杂无比的计算，但是这些都不重要！本门课程是通识课，只要求最基本的部分，如恒星研究中最广泛使用的赫罗图。
+邹老师和助教张昶博士会带大家实地观测，地点位于 L8 的小平台。主要使用望远镜观测星空和太阳。
+
+> 文/[Gaster](https://github.com/WDGaster703)
 
 ## 关于考试
+
+期末考试闭卷，可以使用计算器，题型为 10 题填空 + 5 题简答 + 2 题计算，具体可看资料中的回忆版试卷。填空题是天文学中最基础的知识，如八大行星（笑）；简答题是上课重点讲解的部分，如赫罗图；计算题和作业题内容差不多，主要是两部分：星等和距离的相关计算、开普勒三定律和牛顿运动定律在天体物理中的应用。
+
+> 文/[Gaster](https://github.com/WDGaster703)，2025.1
 
 ## 学习建议
