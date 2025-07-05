@@ -1,0 +1,87 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 2658,
+    "time": 1751724827,
+    "hash": "18cffcf52e852366286029bf03943a01bf7d380e"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1735826552,
+    "hash": "b3d02fa98b8aa29fa304e8e4b8bdef3151c5efdc"
+  },
+  "README.md": {
+    "size": 2740,
+    "time": 1751269633,
+    "hash": "3249b47fd49f36a0cb50dad898cf4455e38c5ef0"
+  },
+  "assignments/2024秋普通天文学作业.pdf": {
+    "size": 319973,
+    "time": 1735836860,
+    "hash": "82d2717cd70cfcf26df54268f8e4b4588be254ac"
+  },
+  "assignments/2025春/普通天文学-第1次作业-参考答案版.pdf": {
+    "size": 1515823,
+    "time": 1751269633,
+    "hash": "3249b47fd49f36a0cb50dad898cf4455e38c5ef0"
+  },
+  "assignments/2025春/普通天文学-第2次作业-参考答案版.pdf": {
+    "size": 1008188,
+    "time": 1751269633,
+    "hash": "3249b47fd49f36a0cb50dad898cf4455e38c5ef0"
+  },
+  "assignments/2025春/普通天文学-第3次作业-参考答案版.pdf": {
+    "size": 943687,
+    "time": 1751269633,
+    "hash": "3249b47fd49f36a0cb50dad898cf4455e38c5ef0"
+  },
+  "assignments/2025春/普通天文学-第4次作业-参考答案版.pdf": {
+    "size": 1055008,
+    "time": 1751269633,
+    "hash": "3249b47fd49f36a0cb50dad898cf4455e38c5ef0"
+  },
+  "assignments/2025春/普通天文学-第5次作业-参考答案版.pdf": {
+    "size": 984860,
+    "time": 1751269633,
+    "hash": "3249b47fd49f36a0cb50dad898cf4455e38c5ef0"
+  },
+  "assignments/README.md": {
+    "size": 39,
+    "time": 1735826552,
+    "hash": "b3d02fa98b8aa29fa304e8e4b8bdef3151c5efdc"
+  },
+  "exams/2024秋普通天文学期末试题.pdf": {
+    "size": 1251536,
+    "time": 1735836860,
+    "hash": "82d2717cd70cfcf26df54268f8e4b4588be254ac"
+  },
+  "exams/2025春普通天文学期末试题（大题回忆版）.pdf": {
+    "size": 293411,
+    "time": 1751269633,
+    "hash": "3249b47fd49f36a0cb50dad898cf4455e38c5ef0"
+  },
+  "exams/README.md": {
+    "size": 54,
+    "time": 1735826552,
+    "hash": "b3d02fa98b8aa29fa304e8e4b8bdef3151c5efdc"
+  },
+  "labs/README.md": {
+    "size": 395,
+    "time": 1735826552,
+    "hash": "b3d02fa98b8aa29fa304e8e4b8bdef3151c5efdc"
+  },
+  "notes/README.md": {
+    "size": 42,
+    "time": 1735826552,
+    "hash": "b3d02fa98b8aa29fa304e8e4b8bdef3151c5efdc"
+  },
+  "slides/README.md": {
+    "size": 58,
+    "time": 1735826552,
+    "hash": "b3d02fa98b8aa29fa304e8e4b8bdef3151c5efdc"
+  },
+  "tag.txt": {
+    "size": 48,
+    "time": 1737294889,
+    "hash": "ba8cbc7e4e2280fe3681d88bd1e3a8acb17954a0"
+  }
+}
