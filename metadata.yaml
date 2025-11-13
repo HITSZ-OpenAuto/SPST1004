@@ -1,0 +1,63 @@
+ID: "SPST1004"
+SimilarID: []
+Name: "普通天文学"
+CourseProperty:
+  - Year: "2024_2025"
+    Major:
+      - Name: ["null"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: ""
+        Semester: "秋"
+    CourseType: "跨专业选修课"
+    CourseID: "SPST1004"
+    CourseName: "普通天文学"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "考勤"
+        Percentage: "20"
+      - Name: "作业"
+        Percentage: "30"
+      - Name: "期末考试"
+        Percentage: "50"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: ""
+      - Name: "实地观测"
+        Hour: ""
+
+  - Year: "2025_2026"
+    Major:
+      - Name: []
+        Degree: "本"
+    GradeSemesters:
+      - Grade: ""
+        Semester: "春"
+    CourseType: "跨专业选修课"
+    CourseID: "SPST1004"
+    CourseName: "普通天文学"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: ""
+      - Name: "期末考试"
+        Percentage: ""
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: ""
+      - Name: "实地观测"
+        Hour: ""
