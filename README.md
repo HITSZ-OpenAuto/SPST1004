@@ -1,5 +1,10 @@
 # SPST1004 - 普通天文学
 
+![成绩构成](https://img.shields.io/badge/成绩构成-gold)
+![考勤20%](https://img.shields.io/badge/考勤-20%25-wheat)
+![作业30%](https://img.shields.io/badge/作业-30%25-wheat)
+![期末考试50%](https://img.shields.io/badge/期末考试-50%25-wheat)
+
 课程为天文学的半科普半专业课程，上课会涉及很多很专业的名词和晦涩难懂的概念，也会有很多复杂无比的计算，但是这些都不重要！本门课程是通识课，只要求最基本的部分，如恒星研究中最广泛使用的赫罗图。
 
 ## 授课教师
