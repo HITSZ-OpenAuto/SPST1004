@@ -33,8 +33,8 @@ author = { name = "Gaster", link = "https://github.com/WDGaster703", date = "202
 
 [[sections.items]]
 content = """
-2025春课程考勤很少
-共5次作业，与期末考计算题强相关
+2025春课程考勤很少。
+共5次作业，与期末考计算题强相关。
 """
 author = { name = "洛阳铲", link = "", date = "" }
 
